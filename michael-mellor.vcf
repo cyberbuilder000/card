@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mellor;Michael;;;
+FN:Michael Mellor
+ORG:Allied Advanced Systems
+TITLE:General Manager
+TEL;TYPE=CELL,VOICE:+1-254-299-7921
+EMAIL;TYPE=INTERNET,WORK:mmellor@alliedadvancedsystems.com
+END:VCARD
